@@ -1,5 +1,7 @@
 #ifndef RECT_H_INCLUDED
 #define RECT_H_INCLUDED
+
+#include "shape.h"
 /* Rectangle's attributes...*/
 
 typedef struct {
