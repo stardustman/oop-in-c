@@ -8,6 +8,6 @@ oop with c
    
 * 虚函数表 
 
-* link time ->early binding
+* link time -> early binding
 * run time -> late binding
  
